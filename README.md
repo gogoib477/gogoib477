@@ -1,4 +1,5 @@
-### Hi there 👋
+Hey!! My name is Binod Gogoi. I am pursuing B.Tech in CSE from R.K University Rajkot, Gujarat.
+
 
 <!--
 **gogoib477/gogoib477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
